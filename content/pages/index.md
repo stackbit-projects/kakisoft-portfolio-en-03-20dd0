@@ -84,8 +84,7 @@ sections:
       It is an advantage that when I get a logistics job.
     actions: []
     type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
