@@ -23,6 +23,9 @@ sections:
       ## About me
 
 
+      ![](/\_static/app-assets/images/8.jpg)
+
+
       I use the name "kakisoft" on the internet.
 
       Please call me "kaki".
