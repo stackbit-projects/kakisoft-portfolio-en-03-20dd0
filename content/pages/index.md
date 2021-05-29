@@ -17,8 +17,7 @@ sections:
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
     actions: []
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
