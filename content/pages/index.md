@@ -19,17 +19,26 @@ sections:
     actions: []
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## About me
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      I use the name "kakisoft" on the internet.
+
+      Please call me "kaki".
 
 
-      - Lorem ipsum
+      I'm a Software Engineer. I often use Laravel, React, and AWS.
 
-      - dolor sit amet
+      And also I specialize in logistics because I have created many logistics
+      systems.
+
+
+      I am creating a new system now.
+
+      Our new service will launch on September 1st.
+
+      So, I have to work hard.
     actions: []
     type: section_content
 seo:
