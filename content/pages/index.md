@@ -18,14 +18,6 @@ sections:
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
     actions: []
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
