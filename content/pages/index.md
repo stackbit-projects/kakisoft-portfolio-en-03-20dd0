@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: kakisoft portfolio
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Hi! Thank you for visiting my website.
+      I'm a Software Engineer.
+      This website was created for me to learn English.
   - section_id: about
     type: section_content
     title: About
