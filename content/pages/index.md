@@ -26,17 +26,15 @@ sections:
       Please call me "kaki".
 
 
-      I'm a Software Engineer. I often use Laravel, React, and AWS.
+      I’m a software engineer. I often use Laravel, React, and AWS.
 
-      And also I specialize in logistics because I have created many logistics
+
+      Especially, I created many logistic systems.
+
+      I have experience in launching and stabilization warehouse management
       systems.
 
-
-      I am creating a new system now.
-
-      Our new service will launch on September 1st.
-
-      So, I have to work hard.
+      So, I’m a software engineer and also logistics specialist.
     actions: []
     type: section_content
   - section_id: lorem-ipsum
