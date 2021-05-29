@@ -94,7 +94,7 @@ sections:
       I'm searching for English speaking friend.
       I will teach Japanese or how to create some websites in return.
 
-      My IT skills are as follows.
+      My IT skills are as follows.  
       https://kakisoft-portfolio-v2.netlify.app/
 
       If you are interested in it, please contact me.
