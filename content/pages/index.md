@@ -86,17 +86,18 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## I'm looking for a language exchange partner
 
+      I'm searching for English speaking friend.
+      I will teach Japanese or how to create some websites in return.
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      My IT skills are as follows.
+      https://kakisoft-portfolio-v2.netlify.app/
 
+      If you are interested in it, please contact me.
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      My SNS account is left side.
     actions: []
     type: section_content
 seo:
