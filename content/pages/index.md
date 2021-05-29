@@ -43,17 +43,15 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Life
 
+      I have two sons.
+      My younger son is 2 years old and my older son is 5 years old.
+      They are too young, so I have to really take care of them.
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Sometimes, they disturb me during my work and online English lesson.
+      But, they are really cute.
     actions: []
     type: section_content
 seo:
