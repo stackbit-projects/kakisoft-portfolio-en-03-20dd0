@@ -18,7 +18,7 @@ sections:
       ## About me
 
 
-      ![](/\_static/app-assets/images/8.jpg)
+      ![](/\_static/app-assets/images/Australia-11.jpg)
 
 
       I use the name "kakisoft" on the internet.
