@@ -11,7 +11,6 @@ sections:
       This website was created for me to learn English.
   - section_id: about
     type: section_content
-    title: About
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
