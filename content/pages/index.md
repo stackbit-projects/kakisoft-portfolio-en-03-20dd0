@@ -90,11 +90,11 @@ sections:
       I will teach Japanese or how to create some websites in return.
 
       My IT skills are as follows.  
+      (But this website is written in Japanese.)  
       https://kakisoft-portfolio-v2.netlify.app/
 
-      If you are interested in it, please contact me.
-
-      My SNS account is left side.
+      If you are interested in it, please contact me.  
+      My SNS account is on the left side.
     actions: []
     type: section_content
 seo:
