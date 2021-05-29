@@ -89,6 +89,8 @@ sections:
     content: |
       ## I'm looking for a language exchange partner
 
+      ![](/\_static/app-assets/images/5.jpg)
+
       I'm searching for English speaking friend.
       I will teach Japanese or how to create some websites in return.
 
