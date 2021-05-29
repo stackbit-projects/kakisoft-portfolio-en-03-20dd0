@@ -61,17 +61,27 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Why learning English
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ![](/\_static/app-assets/images/1.jpg)
 
 
-      - Lorem ipsum
+      English is standard language in IT industry.
 
-      - dolor sit amet
+      When I catch up latest IT technology, I have to read the document in
+      English or watch the video in English.
+
+
+      So, I started learning English seriously.
+
+      If I speak English better, I will be able to get more job in world wide.
+
+
+      And the relationship between logistics and English is very good.
+
+      It is an advantage that when I get a logistics job.
     actions: []
     type: section_content
 seo:
