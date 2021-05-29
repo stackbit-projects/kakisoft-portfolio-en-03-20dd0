@@ -49,6 +49,8 @@ sections:
     content: |
       ## Life
 
+      ![](/\_static/app-assets/images/4.jpg)
+
       I have two sons.
       My younger son is 2 years old and my older son is 5 years old.
       They are too young, so I have to really take care of them.
