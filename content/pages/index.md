@@ -57,7 +57,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## Why learning English
+      ## Why I am learning English
 
 
       ![](/\_static/app-assets/images/1.jpg)
@@ -65,18 +65,18 @@ sections:
 
       English is standard language in IT industry.
 
-      When I catch up latest IT technology, I have to read the document in
-      English or watch the video in English.
-
+      When I catch up with the latest IT technology, I have to read the
+      technical document in English or watch the video in English.
 
       So, I started learning English seriously.
 
-      If I speak English better, I will be able to get more job in world wide.
+
+      If I speak English better, I will be able to get more jobs globally.
 
 
       And the relationship between logistics and English is very good.
 
-      It is an advantage that when I get a logistics job.
+      It is an advantage when I get a logistics job.
     actions: []
     type: section_content
   - section_id: lorem-ipsum
