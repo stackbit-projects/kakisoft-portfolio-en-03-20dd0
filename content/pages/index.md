@@ -95,21 +95,6 @@ sections:
       My SNS account is on the left side.
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: section_content
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
