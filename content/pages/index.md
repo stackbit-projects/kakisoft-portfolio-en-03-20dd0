@@ -85,6 +85,10 @@ sections:
 
       I write English diary everyday.
 
+      The diary is here.
+
+      https://kaki-en-talk.com/
+
 
       These days, I am using an English textbook that is adapted for elementary
       school in English speaking country to learn grammar.
