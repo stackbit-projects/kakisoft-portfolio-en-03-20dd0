@@ -95,7 +95,7 @@ sections:
       My SNS account is on the left side.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: ２３２
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
