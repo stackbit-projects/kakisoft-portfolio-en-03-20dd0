@@ -79,6 +79,21 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
+    content: >
+      ## How are you studying English?
+
+
+      I write English diary everyday.
+
+
+      These days, I am using an English textbook that is adapted for elementary
+      school in English speaking country to learn grammar.
+
+      The engineer I respected recommends this method.
+    actions: []
+    type: section_content
+  - section_id: lorem-ipsum
+    image_alt: lorem-ipsum
     content: |
       ## I'm looking for a language exchange partner
 
@@ -93,21 +108,6 @@ sections:
 
       If you are interested in it, please contact me.  
       My SNS account is on the left side.
-    actions: []
-    type: section_content
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >
-      ## How are you studying English?
-
-
-      I write English diary everyday.
-
-
-      These days, I am using an English textbook that is adapted for elementary
-      school in English speaking country to learn grammar.
-
-      The engineer I respected recommends this method.
     actions: []
     type: section_content
 seo:
