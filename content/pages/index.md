@@ -97,17 +97,17 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## How are you studying English?
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      I write English diary everyday.
 
 
-      - Lorem ipsum
+      These days, I am using an English textbook that is adapted for elementary
+      school in English speaking country to learn grammar.
 
-      - dolor sit amet
+      The engineer I respected recommends this method.
     actions: []
     type: section_content
 seo:
