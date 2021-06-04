@@ -83,9 +83,9 @@ sections:
       ## How are you studying English?
 
 
-      I write English diary everyday.
+      I write English diary everyday.  
 
-      The diary is here.
+      The diary is here.  
 
       https://kaki-en-talk.com/
 
